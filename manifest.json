@@ -101,7 +101,9 @@
           "githubUrl": "https://github.com/kballard/go-shellquote",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f1611b11198bf981f03e48896c5d13b418d596d4/chunk-001.nq.gz",
+      "dep": "dep/f1611b11198bf981f03e48896c5d13b418d596d4.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
