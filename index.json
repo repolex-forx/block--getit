@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "getit",
+  "versions": [
+    {
+      "commit": "f1611b11198bf981f03e48896c5d13b418d596d4",
+      "tag": "main",
+      "parsed_at": "2026-10-01T09:38:06.110683+00:00"
+    }
+  ]
+}
