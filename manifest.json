@@ -56,6 +56,51 @@
       ],
       "ast": [
         "aggregate/ast/f1611b11198bf981f03e48896c5d13b418d596d4/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f1611b11198bf981f03e48896c5d13b418d596d4.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/alecthomas/assert/v2",
+          "ecosystem": "GO",
+          "version": "2.11.0",
+          "githubOrg": "alecthomas",
+          "githubRepo": "assert",
+          "githubCommit": "96885dec03fb9107de54aba088c8e366e1d67ce9",
+          "githubTag": "v2.11.0",
+          "githubUrl": "https://github.com/alecthomas/assert",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alecthomas/repr",
+          "ecosystem": "GO",
+          "version": "0.4.0",
+          "githubOrg": "alecthomas",
+          "githubRepo": "repr",
+          "githubCommit": "3d05a4813c4bc97890471226ba1cf7f240a376ac",
+          "githubTag": "v0.4.0",
+          "githubUrl": "https://github.com/alecthomas/repr",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/hexops/gotextdiff",
+          "ecosystem": "GO",
+          "version": "1.0.3",
+          "githubOrg": "hexops",
+          "githubRepo": "gotextdiff",
+          "githubCommit": "d452d6cac8696043473399e78f17b5dddd24dfd1",
+          "githubTag": "v1.0.3",
+          "githubUrl": "https://github.com/hexops/gotextdiff",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/kballard/go-shellquote",
+          "ecosystem": "GO",
+          "version": "0.0.0-20180428030007-95032a82bc51",
+          "githubOrg": "kballard",
+          "githubRepo": "go-shellquote",
+          "githubUrl": "https://github.com/kballard/go-shellquote",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
